@@ -9,6 +9,8 @@ Quality assurance is the process of checking that your web content is functionin
 ## Browser Compatibility
 Firefox is the recommended browser for editing in Drupal. However, users may be using different browsers. View your content in other browsers (Chrome, Internet Explorer 11, Safari) to ensure that there are no issues particular to that browser. 
 
+### Test Header
+
 ## Contact Information
 Use resource accounts for email addresses and key contacts when possible. If a specific staff person must be listed, make record of this, in case this staff person leaves the position or City and this content needs to be updated.
 
